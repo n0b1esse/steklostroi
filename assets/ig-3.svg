@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#2b2b30"/><stop offset="1" stop-color="#0c0c0e"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <g stroke="#1c1c20" stroke-width="14">
+    <line x1="200" y1="60" x2="200" y2="560"/><line x1="400" y1="60" x2="400" y2="560"/><line x1="60" y1="300" x2="540" y2="300"/>
+  </g>
+  <g fill="#bfe6fa" opacity=".32">
+    <rect x="60" y="80" width="110" height="190" rx="6"/><rect x="230" y="80" width="140" height="190" rx="6"/><rect x="430" y="80" width="110" height="190" rx="6"/>
+    <rect x="60" y="330" width="110" height="200" rx="6"/><rect x="230" y="330" width="140" height="200" rx="6"/><rect x="430" y="330" width="110" height="200" rx="6"/>
+  </g>
+  <rect x="60" y="620" width="300" height="70" rx="14" fill="#ffffff" opacity=".92"/>
+  <text x="80" y="648" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#111">Лофт-перегородка</text>
+  <text x="80" y="674" font-family="Arial,sans-serif" font-size="20" fill="#444">чёрный каркас + стекло</text>
+</svg>
