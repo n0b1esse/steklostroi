@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8f3fb"/><stop offset=".6" stop-color="#9ccbf0"/><stop offset="1" stop-color="#164471"/>
+    </linearGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <rect x="60" y="80" width="480" height="420" rx="16" fill="#ffffff" opacity=".28" stroke="#ffffff" stroke-width="4"/>
+  <line x1="220" y1="80" x2="220" y2="500" stroke="#ffffff" stroke-width="6"/>
+  <line x1="380" y1="80" x2="380" y2="500" stroke="#ffffff" stroke-width="6"/>
+  <rect x="60" y="500" width="480" height="20" fill="#0f1e2e" opacity=".8"/>
+  <g fill="#0f1e2e" opacity=".85">
+    <rect x="100" y="560" width="120" height="12" rx="6"/><rect x="100" y="582" width="180" height="12" rx="6"/>
+  </g>
+  <rect x="60" y="620" width="340" height="70" rx="14" fill="#0f1e2e" opacity=".9"/>
+  <text x="80" y="648" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#fff">Офис со светом</text>
+  <text x="80" y="674" font-family="Arial,sans-serif" font-size="20" fill="#bcd6ec">перегородки в профиле</text>
+</svg>

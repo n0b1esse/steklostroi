@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 750">
+  <defs>
+    <radialGradient id="bg" cx=".5" cy=".35" r=".9">
+      <stop offset="0" stop-color="#fff6e8"/><stop offset=".55" stop-color="#f3d9a8"/><stop offset="1" stop-color="#8a6a3a"/>
+    </radialGradient>
+  </defs>
+  <rect width="600" height="750" fill="url(#bg)"/>
+  <ellipse cx="300" cy="300" rx="150" ry="210" fill="#e8f3fb" stroke="#0f1e2e" stroke-width="10"/>
+  <ellipse cx="300" cy="300" rx="118" ry="178" fill="#cfe6f7"/>
+  <path d="M230 200 q70 -50 140 0 q-20 120 -70 200 q-50 -80 -70 -200" fill="#ffffff" opacity=".7"/>
+  <rect x="210" y="520" width="180" height="16" rx="8" fill="#ffd98a"/>
+  <rect x="60" y="620" width="360" height="70" rx="14" fill="#0f1e2e" opacity=".9"/>
+  <text x="80" y="648" font-family="Arial,sans-serif" font-size="24" font-weight="bold" fill="#fff">Зеркала с подсветкой</text>
+  <text x="80" y="674" font-family="Arial,sans-serif" font-size="20" fill="#bcd6ec">парение света, панно</text>
+</svg>
